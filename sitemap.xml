@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://charben-industrie.com/</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://charben-industrie.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://charben-industrie.com/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://charben-industrie.com/" />
+  </url>
+  <url>
+    <loc>https://charben-industrie.com/a-propos</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://charben-industrie.com/a-propos" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://charben-industrie.com/a-propos" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://charben-industrie.com/a-propos" />
+  </url>
+  <url>
+    <loc>https://charben-industrie.com/contact</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://charben-industrie.com/contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://charben-industrie.com/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://charben-industrie.com/contact" />
+  </url>
+  <url>
+    <loc>https://charben-industrie.com/legal</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://charben-industrie.com/legal" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://charben-industrie.com/legal" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://charben-industrie.com/legal" />
+  </url>
+  <url>
+    <loc>https://charben-industrie.com/mentions-legales</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://charben-industrie.com/mentions-legales" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://charben-industrie.com/mentions-legales" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://charben-industrie.com/mentions-legales" />
+  </url>
+  <url>
+    <loc>https://charben-industrie.com/politique-confidentialite</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://charben-industrie.com/politique-confidentialite" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://charben-industrie.com/politique-confidentialite" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://charben-industrie.com/politique-confidentialite" />
+  </url>
+  <url>
+    <loc>https://charben-industrie.com/politique-cookies</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://charben-industrie.com/politique-cookies" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://charben-industrie.com/politique-cookies" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://charben-industrie.com/politique-cookies" />
+  </url>
+  <url>
+    <loc>https://charben-industrie.com/politique-qse</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://charben-industrie.com/politique-qse" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://charben-industrie.com/politique-qse" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://charben-industrie.com/politique-qse" />
+  </url>
+</urlset>

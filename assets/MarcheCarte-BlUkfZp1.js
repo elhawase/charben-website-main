@@ -1,0 +1,1 @@
+import{l as e}from"./index-DFcS5q9_.js";function r({className:t=""}){return e.jsx("div",{className:`relative flex h-full w-full items-center justify-center overflow-hidden bg-[#F4E9D8] ${t}`,children:e.jsx("img",{src:"/img/cv20.webp",alt:"","aria-hidden":"true",className:"pointer-events-none absolute inset-0 h-full w-full object-cover opacity-100"})})}export{r as default};

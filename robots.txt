@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /assets/
+Disallow: /src/
+Crawl-delay: 1
+
+Sitemap: https://charben-industrie.com/sitemap.xml

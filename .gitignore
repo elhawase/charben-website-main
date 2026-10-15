@@ -1,0 +1,19 @@
+# Dépendances
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Éditeurs
+.vscode/
+.idea/
+
+# Secrets / env (ne jamais committer)
+.env
+.env.local
+*.pem
